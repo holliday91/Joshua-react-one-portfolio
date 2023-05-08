@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/joshua-holliday-329999a7/",
       style: "rounded-tr-md",
     },
     {
@@ -22,7 +22,8 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/theyashpatel",
+      href: "https://github.com/holliday91",
+      
     },
     {
       id: 3,
@@ -31,7 +32,7 @@ const SocialLinks = () => {
           Mail <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:foo@gmail.com",
+      href: "j.holliday54@gmail.com",
     },
     {
       id: 4,
