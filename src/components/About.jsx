@@ -14,23 +14,25 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        
+
+Hello, my name is Joshua Holliday and I am a passionate software engineer with a strong drive for innovation and a deep fascination for technology. Born in Chicago, I have always been captivated by the potential of technology and its ability to shape our future. With each passing day, I find myself more enthusiastic about exploring new frontiers and making meaningful contributions to the field.
+
+My journey in software engineering began with the realization of my passion and the decision to pursue it as a career. I took my first step towards this goal by earning my first certificate through Generation, where I gained a solid foundation in software development. This experience not only equipped me with the necessary technical skills but also instilled in me a strong work ethic and a dedication to continuous learning.
+
+Recently, I successfully completed an apprenticeship program through Multiverse, where I had the invaluable opportunity to work alongside talented professionals at McKinsey and Company. This experience allowed me to refine my technical expertise while also honing my problem-solving abilities and teamwork skills. I embraced every challenge with determination, always striving to deliver high-quality solutions and exceed expectations.
+
+Driven by my relentless pursuit of excellence, I am now ready to embark on new ventures and contribute my skills to the next phase of my career. I firmly believe that success is not solely defined by personal achievements but by the positive impact one can make on the world. I am committed to being an asset to any organization I join, bringing my enthusiasm, dedication, and technical acumen to drive innovation and create meaningful solutions.
+
+As a software engineer, I am not only fascinated by the present possibilities but also excited about the limitless potential of the future. I am eager to explore emerging technologies, collaborate with like-minded individuals, and contribute to projects that push the boundaries of what is possible.
+
+
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        In conclusion, I am a passionate and driven software engineer with a strong desire to make a difference. With my solid technical foundation, apprenticeship experience, and determination to succeed, I am ready to take on new challenges and contribute to the exciting and ever-evolving world of technology.
         </p>
       </div>
     </div>
