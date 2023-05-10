@@ -1,38 +1,30 @@
 import React from "react";
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
-import installNode from "../assets/portfolio/installNode.jpg";
-import navbar from "../assets/portfolio/navbar.jpg";
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
-import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
-import reactWeather from "../assets/portfolio/reactWeather.jpg";
+import reactLyriks from '../assets/portfolio/reactLyriks.png'
+import reactWeather from "../assets/portfolio/reactWeather.png";
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: arrayDestruct,
+      src: reactLyriks,
+      demoLink: "https://joshualyriksapp.netlify.app/",
+      codeLink: "https://github.com/example/repo1", // Replace with the actual code link for id 1
     },
     {
       id: 2,
-      src: reactParallax,
-    },
-    {
-      id: 3,
-      src: navbar,
-    },
-    {
-      id: 4,
-      src: reactSmooth,
-    },
-    {
-      id: 5,
-      src: installNode,
-    },
-    {
-      id: 6,
       src: reactWeather,
+      demoLink: "https://example.com/demo2",
+      codeLink: "https://github.com/example/repo2", // Replace with the actual code link for id 2
     },
   ];
+
+  const handleDemoClick = (demoLink) => {
+    window.open(demoLink, "_blank"); // Open the link in a new tab
+  };
+
+  const handleCodeClick = (codeLink) => {
+    window.open(codeLink, "_blank"); // Open the link in a new tab
+  };
 
   return (
     <div
@@ -48,7 +40,7 @@ const Portfolio = () => {
         </div>
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
-          {portfolios.map(({ id, src }) => (
+          {portfolios.map(({ id, src, demoLink, codeLink }) => (
             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
               <img
                 src={src}
@@ -56,10 +48,16 @@ const Portfolio = () => {
                 className="rounded-md duration-200 hover:scale-105"
               />
               <div className="flex items-center justify-center">
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
+                <button
+                  className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105"
+                  onClick={() => handleDemoClick(demoLink)}
+                >
                   Demo
                 </button>
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
+                <button
+                  className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105"
+                  onClick={() => handleCodeClick(codeLink)}
+                >
                   Code
                 </button>
               </div>
