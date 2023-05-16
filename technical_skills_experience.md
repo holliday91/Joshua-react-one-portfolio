@@ -1,4 +1,4 @@
-## Durable Skills
+## Technical Skills
 
 Throughout my professional experience, I have developed a set of durable skills that have contributed to my growth as a software engineer. Here are some of the key skills I have acquired:
 
