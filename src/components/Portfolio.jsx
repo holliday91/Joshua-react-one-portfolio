@@ -8,13 +8,13 @@ const Portfolio = () => {
       id: 1,
       src: reactLyriks,
       demoLink: "https://joshualyriksapp.netlify.app/",
-      codeLink: "https://github.com/example/repo1", // Replace with the actual code link for id 1
+      codeLink: "https://github.com/holliday91/lyriks_starter_code", // Replace with the actual code link for id 1
     },
     {
       id: 2,
       src: reactWeather,
-      demoLink: "https://example.com/demo2",
-      codeLink: "https://github.com/example/repo2", // Replace with the actual code link for id 2
+      demoLink: "https://weather4you.netlify.app",
+      codeLink: "https://github.com/holliday91/my_weather_app", // Replace with the actual code link for id 2
     },
   ];
 
