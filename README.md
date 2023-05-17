@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# README
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+Hello there! Welcome to my README. I am a software engineer currently working at McKinsey & Company. I am also an apprentice at Multiverse. This document will provide you with some insights into my background, experience, and skills.
 
-In the project directory, you can run:
+## Experience
 
-### `npm start`
+During my time at McKinsey & Company, I have been part of the feedback frontend team. Working on this team has allowed me to gain valuable experience in frontend development, particularly in the context of feedback systems. I have been involved in designing and implementing user interfaces, collaborating with designers and backend developers to create seamless user experiences.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Skills
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Leadership
 
-### `npm test`
+Working in a team environment has given me the opportunity to develop and enhance my leadership skills. I have learned how to effectively communicate with team members, delegate tasks, and coordinate efforts to achieve project goals. I believe that strong leadership is crucial in delivering high-quality software products.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Technical Skills
 
-### `npm run build`
+My experience as a software engineer has enabled me to strengthen my frontend and backend development skills. On the frontend, I have expertise in HTML, CSS, and JavaScript, as well as frameworks such as React. On the backend, I have worked with technologies like Node.js, Express, and databases such as MySQL and SQL.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Non-technical Skills
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+In addition to technical skills, I have also focused on developing non-technical skills that are vital for success in the software engineering field. These skills include effective communication, problem-solving, critical thinking, and adaptability. I believe that a well-rounded skill set is essential in tackling complex challenges and delivering innovative solutions.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Conclusion
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+In conclusion, I would like to express my heartfelt gratitude to Multiverse and their incredible team, including Linda Eng and Elvis Garcia (coach and teaching assistant), for providing me with an amazing learning and development opportunity. I would also like to extend my thanks to my McKinsey coach, whose guidance and support have been invaluable throughout my journey. I am truly grateful for the experiences and knowledge I have gained, and I am excited to continue growing as a software engineer. If you have any further inquiries or would like to explore potential collaborations, please do not hesitate to reach out to me.
